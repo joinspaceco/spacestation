@@ -1,4 +1,4 @@
-# Welcone to SpaceStation
+# Welcome to SpaceStation
 
 Downloads are in the release section.
 
